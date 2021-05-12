@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.905.0"
+  },
+  "name": "AWS-S3",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S2Mackinley/AWS-S3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S2Mackinley/AWS-S3/issues"
+  },
+  "homepage": "https://github.com/S2Mackinley/AWS-S3#readme"
+}
